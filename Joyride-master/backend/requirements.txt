@@ -5,7 +5,6 @@ awscli==1.16.155
 backports-abc==0.5
 backports.functools-lru-cache==1.5
 bdist-mpkg==0.5.0
-bonjour-py==0.3
 botocore==1.12.145
 certifi==2019.3.9
 cffi==1.12.3
